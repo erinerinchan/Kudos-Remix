@@ -1,6 +1,10 @@
-# Live demo
+#Basic information
 
 ![alt text](/public/Demo.png "Logo Title Text 1")
+
+Kudos, a full-stack chat app built using Remix, Prisma and MongoDB, is based on the [tutorial by Sabin Adams](https://www.prisma.io/blog/fullstack-remix-prisma-mongodb-1-7D0BfTXBmB6r).
+
+# Live demo
 
 [Click here](https://kudos-remix.vercel.app/login)
 
