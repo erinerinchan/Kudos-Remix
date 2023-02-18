@@ -1,6 +1,6 @@
 # Live demo
 
-![alt text](Demo.png "Logo Title Text 1")
+![alt text](/public/Demo.png "Logo Title Text 1")
 
 [Click here](https://kudos-remix.vercel.app/login)
 
